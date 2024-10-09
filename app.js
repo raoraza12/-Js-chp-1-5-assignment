@@ -24,10 +24,10 @@ console.log(myName)
 var greeting = "Hello World" 
 alert(greeting);
 
-var stBio = "Jhone Doe", age = "16 years old", course = "Certified Mobile Application Development"   
+var stBio= "Jhone Doe", age = "16 years old", course = "Certified Mobile Application Development"   
 alert(stBio);
 alert(age);
-alert(course);
+alert(course);                                                                                                 
 
 var pizza = "PIZZA \nPIZZ \nPIZ \nPI \nP";
 alert(pizza);
